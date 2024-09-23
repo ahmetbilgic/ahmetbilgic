@@ -1,6 +1,6 @@
 [![MasterHead](http://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg)
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">Data Scientist Candidate</h3>
+<h3 align="center">Data Scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
