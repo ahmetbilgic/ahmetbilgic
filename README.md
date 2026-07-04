@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetbilgic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetbilgic&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=ahmetbilgic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.zohan.tech/api/top-langs?username=ahmetbilgic&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=ahmetbilgic&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak"/>
 
@@ -58,17 +58,17 @@
 <div align="center">
 
 <a href="https://github.com/ahmetbilgic/Credit-Card-Fraud-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbilgic&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Credit Card Fraud Detection"/>
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=ahmetbilgic&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Credit Card Fraud Detection"/>
 </a>
 <a href="https://github.com/ahmetbilgic/fish_classification_with_ann">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbilgic&repo=fish_classification_with_ann&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Fish Classification with ANN"/>
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=ahmetbilgic&repo=fish_classification_with_ann&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Fish Classification with ANN"/>
 </a>
 
 <a href="https://github.com/ahmetbilgic/RFM_Ile_Musteri_Kumeleme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbilgic&repo=RFM_Ile_Musteri_Kumeleme&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RFM ile Müşteri Kümeleme"/>
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=ahmetbilgic&repo=RFM_Ile_Musteri_Kumeleme&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RFM ile Müşteri Kümeleme"/>
 </a>
 <a href="https://github.com/ahmetbilgic/HabitTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbilgic&repo=HabitTracker&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Habit Tracker"/>
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=ahmetbilgic&repo=HabitTracker&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Habit Tracker"/>
 </a>
 
 </div>
@@ -76,9 +76,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmetbilgic/ahmetbilgic/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
